@@ -17,7 +17,7 @@ PLBERT_dir: 'Utils/PLBERT/'
 data_params:
   train_data: "/content/drive/MyDrive/225d_proj/train_list.txt"
   val_data: "/content/drive/MyDrive/225d_proj/val_list.txt"
-  root_path: "/content/drive/MyDrive/225d_proj/chinese_accenwav_100"
+  root_path: "/content/drive/MyDrive/225d_proj/chinese_accent_wav_100"
   OOD_data: "Data/OOD_texts.txt"
   min_length: 50 # sample until texts with this size are obtained for OOD texts
 
